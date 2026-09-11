@@ -1,0 +1,4 @@
+Question: Before merging a feature into main, explain and demonstrate which branch you must switch to first.
+
+Answer : Before merging a feature into main , i create a feature named branch inside feature branch 
+        create one file , write something inside file than save it and git add with do commit , switch main branch than merge into main branch . that's all. 
