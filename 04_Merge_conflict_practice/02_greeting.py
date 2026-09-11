@@ -1,2 +1,2 @@
-print("Hello world...!!")
+print("Git and Github are important.")
 
