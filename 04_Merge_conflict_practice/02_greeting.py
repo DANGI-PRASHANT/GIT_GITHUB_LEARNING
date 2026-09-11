@@ -1,1 +1,1 @@
-print("Hello world..!")
+print("Git amd Github are important.")
