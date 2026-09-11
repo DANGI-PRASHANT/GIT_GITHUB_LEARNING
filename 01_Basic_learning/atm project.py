@@ -21,3 +21,17 @@ if pin == 1234:
                 print("Withdraw Successful")
                 print(f"Remaining amount is {balance - withdraw} $")
 
+
+            # Deposit features:
+
+    elif option.lower() == "deposit":
+
+            deposit = int(input("Enter a amount: "))
+            print()
+
+            balance_01 = balance + deposit
+
+            if balance_01 == balance + deposit:
+                print(f"Deposit amount is {deposit} $")
+                print(f"Total Balance is {balance_01} $")
+
