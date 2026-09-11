@@ -1,4 +1,3 @@
-
 card = True
 balance = 500
 
@@ -11,5 +10,14 @@ if pin == 1234:
     if option == "Balance check":
         print(f"Your Balance is {balance} $.")
 
-    
+       
+    elif option == "withdraw":
+
+            withdraw = int(input("Enter amount: "))
+
+            if withdraw >= balance:
+                print("Insufficent Balance")
+            else:
+                print("Withdraw Successful")
+                print(f"Remaining amount is {balance - withdraw} $")
 
