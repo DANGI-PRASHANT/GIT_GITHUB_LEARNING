@@ -6,3 +6,10 @@ print(f"Sum of two number : {num1 + num2}")
 print(f"Sub of two number : {num1 -num2}")
 print(f"Multiple of two number: {num1 * num2}")
 print(f"Divided : {num1 / num2}")
+print()
+
+# add-square-feature:
+
+num = float(input("Enter a number: "))
+
+print(f"square : {num **2}")
