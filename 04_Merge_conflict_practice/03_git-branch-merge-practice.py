@@ -6,3 +6,12 @@ print(f"Sum of two number : {num1 + num2}")
 print(f"Sub of two number : {num1 -num2}")
 print(f"Multiple of two number: {num1 * num2}")
 print(f"Divided : {num1 / num2}")
+
+# Number system: 
+
+num = int(input("Enter a number: "))
+
+if num >0:
+    print("Positive")
+else:
+    print("Negative")
