@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 git is very important for developers.
+=======
+ i am learning Git and Github.
+ 
+>>>>>>> change
